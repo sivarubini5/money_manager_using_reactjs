@@ -1,0 +1,43 @@
+/* Write your CSS here */
+.cards {
+  display: flex;
+  padding: 10px;
+}
+.each {
+  margin: 10px;
+  padding: 10px;
+  border-radius: 5px;
+  display: flex;
+}
+.balance {
+  background-color: #d8ff9e;
+  height: 13vh;
+  width: 23vw;
+  border-radius: 10px;
+  border-bottom: #84cc16;
+  text-align: center;
+  margin: 15px;
+  padding: 20px;
+}
+.income {
+  background-color: #cffafe;
+  height: 13vh;
+  width: 23vw;
+  border-radius: 10px;
+  border-bottom: #84cc16;
+  text-align: center;
+  margin: 15px;
+  padding: 10px;
+  margin-left: 40px;
+}
+.expense {
+  background-color: #cbd5e1;
+  height: 13vh;
+  width: 23vw;
+  border-radius: 10px;
+  border-bottom: #84cc16;
+  text-align: center;
+  margin: 15px;
+  margin-left: 40px;
+  padding: 10px;
+}

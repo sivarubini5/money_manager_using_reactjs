@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.fl {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.img {
+  height: 10px;
+  width: 10px;
+}
+.but {
+  margin: 0px;
+}
+.fl {
+  display: flex;
+  height: 60px;
+  min-width: 20vw;
+  box-shadow: 1px 1px 1px 1px #7e858e;
+}

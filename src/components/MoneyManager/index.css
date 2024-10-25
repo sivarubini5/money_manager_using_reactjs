@@ -1,0 +1,67 @@
+/* Write your CSS here */
+.lastcard {
+  display: flex;
+  justify-content: space-between;
+  margin: 50px;
+}
+.form {
+  flex-shrink: 0;
+}
+.bg {
+  padding: 80px;
+}
+.namecontainer {
+  background-color: #d7dfe9;
+  border-radius: 10px;
+  padding: 50px;
+  margin: 20px;
+  height: 20vh;
+  width: 80vw;
+  flex-grow: 1;
+}
+span {
+  color: #06b6d4;
+}
+form {
+  margin: 0px;
+  margin-right: 30px;
+}
+input {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  box-shadow: 5px 2px #7e858e;
+}
+select {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  box-shadow: 2px 2px #7e858e;
+}
+.b {
+  background-color: #0b69ff;
+  color: white;
+  border-color: #0b69ff;
+  border-radius: 5px;
+  height: 30px;
+  width: 60px;
+}
+.history {
+  box-sizing: border-box;
+  flex-grow: 0;
+  max-height: 300px; /* Set to your preferred fixed height */
+  width: 100%; /* Adjust as needed */
+  overflow-y: auto;
+  margin-left: 160px;
+}
+.in {
+  box-shadow: 0px 0px;
+  margin: 10px;
+}
+.h1 {
+  color: white;
+}
+.fl {
+  display: flex;
+  height: 60px;
+  min-width: 20vw;
+  box-shadow: 1px 1px 1px 1px #7e858e;
+}
